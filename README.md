@@ -25,6 +25,9 @@ Zahirah         83.4    B
 Jeong           95.4    A
 
 Input Data: The grades for each student are stored as integers in separate variables.
+
 Sum Calculation: The total sum of grades for each student is calculated by adding their assignment scores.
+
 Average Calculation: The sum is divided by the number of assignments (5) to determine the average.
+
 Output: The results are printed in a formatted table, showing each student's average score and their corresponding letter grade.
