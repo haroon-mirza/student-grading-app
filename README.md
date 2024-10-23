@@ -11,9 +11,13 @@ The program calculates the average score for each student based on the five assi
 It then displays the student's name, average score, and grade to the console in a formatted table.
 
 Assignment scores for four students:
+
 Sophia: 93, 87, 98, 95, 100
+
 Nicolas: 80, 83, 82, 88, 85
+
 Zahirah: 84, 96, 73, 85, 79
+
 Jeong: 90, 92, 98, 100, 97
 
 The program outputs the student’s name, average score, and grade:
